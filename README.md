@@ -42,6 +42,6 @@ Clean layout with KPI cards, trends, and breakdowns in a logical flow
 
 6. Screenshot / Demo
    
-Screenshot: 
+Screenshot: ("https://github.com/P-r-a-n-a-v-i/Sales-Data_Analysis-/blob/main/Pranavi%20Zararia_PowerBI_Assignment_AnalyxAcademy.pdf")
 Caption: "Sales Data Analysis dashboard showing revenue, profit, regional, segment, and shipping insights"
-GitHub repo: https://github.com/P-r-a-n-a-v-i/Sales-Data_Analysis-
+GitHub repo: ("https://github.com/P-r-a-n-a-v-i/Sales-Data_Analysis-")
