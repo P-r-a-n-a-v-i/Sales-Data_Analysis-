@@ -11,18 +11,16 @@ An interactive dashboard that consolidates two years of sales data (2024 and 202
 
 3. Tech Stack
 
-The visuals and formatting suggest Power BI. Please confirm or edit.
-
 Power BI Desktop: dashboard design, slicers, and interactive visuals
 DAX: measures such as Sum of Sales Revenue, Sum of Profit, Average Profit, and Average Days to Ship
 Power Query: data cleaning and transformation
 Excel / CSV: source data files
-(Optional) Python (pandas): preprocessing or validation before loading
+
 4. Data Resource
-Source: [Kaggle / company dataset / synthetic data generated with Python. Add yours here]
+   
 Scope: transactional sales records for 2024 and 2025
 Key fields: Order Date, Product Name, Region, Customer Segment, Order Priority, Sales Revenue, Profit, Shipping Days
-Size: [X rows, Y columns]
+
 5. Features / Highlights
 
 Interactive elements
@@ -38,13 +36,12 @@ Regional performance: South leads (about 0.68M) and North trails (about 0.42M), 
 Segment profitability: Consumer generates the most profit (38.4%), followed by Corporate (33.6%) and Small Business (28%).
 Monthly trends: area charts track revenue and profit month by month with headline KPIs (194.67K revenue, 79.95K profit). The average-profit bar chart ranks months by profitability.
 Fulfilment efficiency: average shipping time is about 3.35 days, and it is nearly identical across Critical, High, Medium, and Low priority orders. Critical orders are not shipped faster, which suggests a process improvement opportunity.
-
 Design choices
-
 Consistent red colour theme for readability
 Clean layout with KPI cards, trends, and breakdowns in a logical flow
+
 6. Screenshot / Demo
-Screenshot: (attach your dashboard image)
+   
+Screenshot: 
 Caption: "Sales Data Analysis dashboard showing revenue, profit, regional, segment, and shipping insights"
-Live demo / Power BI link: [add link]
-GitHub repo: [add link, including the .pbix file and dataset]
+GitHub repo: https://github.com/P-r-a-n-a-v-i/Sales-Data_Analysis-
